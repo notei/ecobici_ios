@@ -1,0 +1,23 @@
+PODS:
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - TableFlip (1.3)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - TableFlip
+
+SPEC CHECKSUMS:
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  TableFlip: 2bd0375d9d0b29f7bbd500a236dba560a0e00618
+
+PODFILE CHECKSUM: 0c6383916658db812f4cbedd381066a725346b22
+
+COCOAPODS: 1.4.0
